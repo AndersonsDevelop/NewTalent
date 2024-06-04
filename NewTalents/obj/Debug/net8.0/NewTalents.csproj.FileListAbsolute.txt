@@ -1,0 +1,14 @@
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.deps.json
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.runtimeconfig.json
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.dll
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.pdb
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.AssemblyInfoInputs.cache
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.AssemblyInfo.cs
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.csproj.CoreCompileInputs.cache
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.dll
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/obj/Debug/net8.0/refint/NewTalents.dll
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.pdb
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.genruntimeconfig.cache
+/home/anderson/DIO/Projetos/NewTalents/NewTalents/obj/Debug/net8.0/ref/NewTalents.dll
